@@ -209,6 +209,12 @@ a{
 
 body{
     background-image: url("/landing-page/images/background1.jpeg");
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: ;
+    position: relative;
+    height: auto;
+    width: auto; */
 }
 
 .header-content{
